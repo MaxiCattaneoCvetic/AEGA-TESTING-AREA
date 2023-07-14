@@ -1,0 +1,757 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aega.com.ar" resolutions="1x" timestamp="1601193550780">
+  <folder name="assets">
+    <file name="ficha2.doc" crc="4108699331" seo="true" mt="1600744992000"/>
+    <file name="ficha3.doc" crc="4108699331" seo="true" mt="1600843300000"/>
+    <file name="ficha.doc" crc="4108699331" seo="true" mt="1600744992000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4111914379"/>
+    <file name="master_a-p_g_-maestra.css" crc="400895192" ref="convenios:publicaciones-y-notas:contacto:actividades:eventos:objetivos:institucional:servicios:gracias:bienvenidos:promociones-cursos-2:promociones-cursos-1:actividades-en-curso:contacto-curso:com.-directiva:actividades-programadas:nota1:nota2:asociate:historia"/>
+    <file name="convenios.css" crc="4291709113" ref="convenios"/>
+    <file name="publicaciones-y-notas.css" crc="4039056726" ref="publicaciones-y-notas"/>
+    <file name="contacto.css" crc="28591352" ref="contacto"/>
+    <file name="index.css" crc="4015469197" ref="index"/>
+    <file name="actividades.css" crc="160556272" ref="actividades"/>
+    <file name="eventos.css" crc="74229986" ref="eventos"/>
+    <file name="objetivos.css" crc="354588149" ref="objetivos"/>
+    <file name="institucional.css" crc="3828263561" ref="institucional"/>
+    <file name="servicios.css" crc="4183259131" ref="servicios"/>
+    <file name="gracias.css" crc="3896191254" ref="gracias"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="389954806" ref="convenios:publicaciones-y-notas:contacto:actividades:eventos:objetivos:institucional:servicios:gracias:bienvenidos:promociones-cursos-2:promociones-cursos-1:actividades-en-curso:contacto-curso:com.-directiva:actividades-programadas:nota1:nota2:asociate:historia"/>
+    <file name="nomq_convenios.css" crc="20599440" ref="convenios"/>
+    <file name="nomq_publicaciones-y-notas.css" crc="4205643169" ref="publicaciones-y-notas"/>
+    <file name="nomq_contacto.css" crc="94655874" ref="contacto"/>
+    <file name="nomq_actividades.css" crc="485022526" ref="actividades"/>
+    <file name="nomq_eventos.css" crc="181903257" ref="eventos"/>
+    <file name="nomq_objetivos.css" crc="3823950580" ref="objetivos"/>
+    <file name="nomq_institucional.css" crc="4072954826" ref="institucional"/>
+    <file name="nomq_servicios.css" crc="4085719841" ref="servicios"/>
+    <file name="nomq_gracias.css" crc="237076390" ref="gracias"/>
+    <file name="nomq_index.css" crc="403999928" ref="index"/>
+    <file name="bienvenidos.css" crc="120536907" ref="bienvenidos"/>
+    <file name="nomq_bienvenidos.css" crc="104015951" ref="bienvenidos"/>
+    <file name="promociones-cursos-2.css" crc="4172235" ref="promociones-cursos-2"/>
+    <file name="nomq_promociones-cursos-2.css" crc="508029731" ref="promociones-cursos-2"/>
+    <file name="promociones-cursos-1.css" crc="20217415" ref="promociones-cursos-1"/>
+    <file name="nomq_promociones-cursos-1.css" crc="290530691" ref="promociones-cursos-1"/>
+    <file name="actividades-en-curso.css" crc="22098546" ref="actividades-en-curso"/>
+    <file name="nomq_actividades-en-curso.css" crc="177852374" ref="actividades-en-curso"/>
+    <file name="contacto-curso.css" crc="244194747" ref="contacto-curso"/>
+    <file name="nomq_contacto-curso.css" crc="165867018" ref="contacto-curso"/>
+    <file name="com_-directiva.css" crc="5070799" ref="com.-directiva"/>
+    <file name="nomq_com_-directiva.css" crc="3978503303" ref="com.-directiva"/>
+    <file name="actividades-programadas.css" crc="3905129360" ref="actividades-programadas"/>
+    <file name="nomq_actividades-programadas.css" crc="306466327" ref="actividades-programadas"/>
+    <file name="nota1.css" crc="289188352" ref="nota1"/>
+    <file name="nomq_nota1.css" crc="91283267" ref="nota1"/>
+    <file name="nota2.css" crc="514887426" ref="nota2"/>
+    <file name="nomq_nota2.css" crc="448423795" ref="nota2"/>
+    <file name="asociate.css" crc="4064314167" ref="asociate"/>
+    <file name="nomq_asociate.css" crc="96210896" ref="asociate"/>
+    <file name="historia.css" crc="486683470" ref="historia"/>
+    <file name="nomq_historia.css" crc="4141927638" ref="historia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="museutils.js" crc="3939489907" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="webpro.js" crc="3856315280" ref="contacto:bienvenidos:eventos:contacto-curso:asociate"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="bienvenidos:eventos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="bienvenidos:eventos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="bienvenidos:eventos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="require.js" crc="4177726516" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="form_check.php" crc="4108222811" ref="contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacto"/>
+    <file name="form_process.php" crc="260214869" ref="contacto"/>
+    <file name="form-u928.php" crc="4284714841" ref="contacto"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:index:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="form-u25909.php" crc="151029465" ref="contacto-curso"/>
+    <file name="form-u26316.php" crc="156727497" ref="asociate"/>
+  </folder>
+  <folder name="images">
+    <file name="imagen pegada 333x66.jpg" crc="260959251" seo="true" ref="institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+    </file>
+    <file name="imagen pegada 17x16.jpg" crc="312651626" seo="true" ref="institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+    </file>
+    <file name="imagen pegada 954x299.jpg" crc="4032965166" seo="true" ref="bienvenidos:institucional:contacto:gracias:objetivos:convenios:actividades-programadas:eventos:publicaciones-y-notas:servicios:com.-directiva:promociones-cursos-1:promociones-cursos-2:actividades:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="ultimas-actividades" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="01.jpg" crc="266449679" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:bienvenidos:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia"/>
+    <file name="02.jpg" crc="82615601" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="03.jpg" crc="313675406" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="04.jpg" crc="3822394298" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="05.jpg" crc="456944752" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="bienvenidos:eventos"/>
+    <file name="imagen pegada 436x248.jpg" crc="39064750" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 951x290.jpg" crc="4194424854" seo="true" ref="convenios">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="institucional" alt=""/>
+    </file>
+    <file name="imagen pegada 950x290.jpg" crc="4087832142" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="imagen pegada 951x290460x141.jpg" crc="3911301670" seo="true" ref="convenios">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="convenios" alt=""/>
+    </file>
+    <file name="01460x170.jpg" crc="372434590" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="02558x171.jpg" crc="528254657" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="03558x171.jpg" crc="388838349" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="04558x171.jpg" crc="3797326879" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="05558x171.jpg" crc="76057332" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 950x290460x153.jpg" crc="4178932450" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="portada-crop-u19924.jpg" crc="340185107" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 879x308.jpg" crc="4187473469" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="portada-crop-u199242.jpg" crc="3992200559" seo="true" ref="bienvenidos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 245x235.jpg" crc="4136757297" seo="true" ref="bienvenidos:institucional:contacto:gracias:actividades:objetivos:convenios:eventos:publicaciones-y-notas:servicios:promociones-cursos-1:promociones-cursos-2:actividades-programadas:com.-directiva:actividades-en-curso:contacto-curso:nota1:nota2:asociate:historia">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="publicaciones-y-notas" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="ficha" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="com.-directiva" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="gracias" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="institucional" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="ficha-de-inscripción" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="contacto-curso" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="asociate" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+      <caption webpage="inscripcion" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="ficha-de-asociación" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="actividades-en-curso" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="convenios" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="xulo-crop-u20147.jpg" crc="29754821" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="boton promociones-crop-u20159.jpg" crc="3801204857" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="boton asociados-crop-u20003.jpg" crc="236154216" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="xulo-crop-u201472.jpg" crc="4152281635" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="boton promociones-crop-u201592.jpg" crc="315344435" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="boton asociados-crop-u200032.jpg" crc="4010090556" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="objetivos.jpg" crc="321177204" seo="true" ref="objetivos">
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="objetivos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="imagen pegada 434x112-crop-u22145.jpg" crc="3935588861" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 360x130-crop-u22121.jpg" crc="3821488600" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 360x130-crop-u221212.jpg" crc="4173416662" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 434x112-crop-u221452.jpg" crc="108646034" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="asanblea constitutiva de aega 2009.jpg" crc="242507948" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresarios gallegos santiago 2010.jpg" crc="4183949391" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresrios gallegos santiago de compostela 2009.jpg" crc="4077152221" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="formacion de emprendedores 2014.jpg" crc="445382470" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="intervencion del economista gallego laudelino pellitero 2012.jpg" crc="265499707" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="jornadas de empresarios gallegos mar del plata 2008.jpg" crc="4095123235" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="asanblea constitutiva de aega 2009-crop-u22482.jpg" crc="3941980868" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresarios gallegos santiago 201050x38.jpg" crc="239424383" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresrios gallegos santiago de compostela 200950x38.jpg" crc="171941032" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="formacion de emprendedores 2014-crop-u22575.jpg" crc="4290864686" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="intervencion del economista gallego laudelino pellitero 201250x38.jpg" crc="532630673" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="jornadas de empresarios gallegos mar del plata 200850x38.jpg" crc="3996047123" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresarios gallegos santiago 2010458x282.jpg" crc="3916633918" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresrios gallegos santiago de compostela 2009458x282.jpg" crc="4049827491" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="formacion de emprendedores 2014460x281.jpg" crc="3884679686" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="intervencion del economista gallego laudelino pellitero 2012458x344.jpg" crc="4014557605" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="asanblea constitutiva de aega 2009-crop-u224822.jpg" crc="278003361" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresarios gallegos santiago 201026x20.jpg" crc="440491084" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="encuentro de empresrios gallegos santiago de compostela 200926x20.jpg" crc="4157811662" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="formacion de emprendedores 2014-crop-u225752.jpg" crc="27518018" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="intervencion del economista gallego laudelino pellitero 201226x20.jpg" crc="3863514582" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="jornadas de empresarios gallegos mar del plata 200826x20.jpg" crc="288132009" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="06.jpg" crc="469459365" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 600x349.jpg" crc="3957599349" seo="true" ref="promociones-cursos-1">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="imagen pegada 564x317.jpg" crc="4102025416" seo="true" ref="promociones-cursos-1:promociones-cursos-2">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="imagen pegada 264x485.jpg" crc="33142833" seo="true" ref="promociones-cursos-1">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="imagen pegada 264x4852.jpg" crc="3895410168" seo="true" ref="promociones-cursos-1">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="imagen pegada 264x4853.jpg" crc="3865608127" seo="true" ref="promociones-cursos-1">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="imagen pegada 264x4854.jpg" crc="104546423" seo="true" ref="promociones-cursos-1">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+    </file>
+    <file name="imagen pegada 600x121.jpg" crc="513889192" seo="true" ref="promociones-cursos-1:promociones-cursos-2">
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones-cursos-1" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="06461x141.jpg" crc="220677836" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="imagen pegada 879x308153x49.jpg" crc="451692148" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="2012 aega-presidente de la xunta.jpg" crc="4276057246" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="agape con funcionarios.jpg" crc="4008610414" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="2012 aega-presidente de la xunta-crop-u23163.jpg" crc="533058886" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="agape con funcionarios-crop-u23219.jpg" crc="4214145297" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="2012 aega-presidente de la xunta-crop-u231632.jpg" crc="297681349" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="agape con funcionarios-crop-u232192.jpg" crc="372887446" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="flyer.jpg" crc="4058233767" seo="true" ref="actividades-programadas">
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades-programadas" alt=""/>
+      <caption webpage="actividades" alt=""/>
+      <caption webpage="actividades" alt=""/>
+    </file>
+    <file name="imagen pegada 585x153.jpg" crc="44644358" seo="true" ref="promociones-cursos-2">
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="imagen pegada 587x179.jpg" crc="382808699" seo="true" ref="promociones-cursos-2">
+      <caption webpage="promociones-cursos-2" alt=""/>
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="imagen pegada 554x333.jpg" crc="3827972870" seo="true" ref="promociones-cursos-2">
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="imagen pegada 554x333373x225.jpg" crc="4074176" seo="true" ref="promociones-cursos-2">
+      <caption webpage="promociones-cursos-2" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="seminario 2012.jpg" crc="383644109" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="curso 2013.jpg" crc="4027549193" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="programa de formacion 2015.jpg" crc="3954615234" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="seminario 2012-crop-u25182.jpg" crc="190169676" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="curso 2013-crop-u25120.jpg" crc="109670904" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="programa de formacion 2015-crop-u25151.jpg" crc="145261858" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="agape con funcionarios444x281.jpg" crc="378879824" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="2012 aega-presidente de la xunta422x281.jpg" crc="355483799" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="seminario 2012281x281.jpg" crc="4107361045" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="curso 2013267x281.jpg" crc="4182602966" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="programa de formacion 2015281x281.jpg" crc="34999318" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="seminario 2012-crop-u251822.jpg" crc="3807724947" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="curso 2013-crop-u251202.jpg" crc="4098933661" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="programa de formacion 2015-crop-u251512.jpg" crc="515162918" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="inicio-crop-u28239.jpg" crc="142534466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u25821-11.png" crc="3874361261" ref="actividades"/>
+    <file name="u28331-12.png" crc="4215283826" ref="publicaciones-y-notas"/>
+    <file name="imagen pegada 289x67.jpg" crc="4210351486" seo="true" ref="nota1">
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+    </file>
+    <file name="imagen pegada 296x368149x185.jpg" crc="3808280168" seo="true" ref="nota1">
+      <caption webpage="nota1" alt=""/>
+    </file>
+    <file name="imagen pegada 317x62.jpg" crc="4254641677" seo="true" ref="nota1">
+      <caption webpage="nota1" alt=""/>
+      <caption webpage="nota1" alt=""/>
+    </file>
+    <file name="imagen pegada 296x368-crop-u28639.jpg" crc="4191747646" seo="true" ref="nota1">
+      <caption webpage="nota1" alt=""/>
+    </file>
+    <file name="imagen pegada 308x283.jpg" crc="3940707386" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="imagen pegada 333x246.jpg" crc="142614887" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="imagen pegada 330x248.jpg" crc="71977306" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="imagen pegada 334x253.jpg" crc="4185872219" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="imagen pegada 331x245.jpg" crc="3975883135" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="imagen pegada 308x283-crop-u29147.jpg" crc="3982277361" seo="true" ref="nota2">
+      <caption webpage="nota2" alt=""/>
+    </file>
+    <file name="inicio-crop-u282392.jpg" crc="4009078141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boton asociate-crop-u29556.jpg" crc="4001163001" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="boton asociate-crop-u295562.jpg" crc="4285606053" seo="true" ref="bienvenidos">
+      <caption webpage="bienvenidos" alt=""/>
+    </file>
+    <file name="u24161-22.png" crc="294923374" ref="institucional"/>
+  </folder>
+  <file name="index.html" crc="9365337" seo="true" mt="1601193539484" redirect="true"/>
+  <file name="institucional.html" crc="3950373300" seo="true" mt="1601192784439" redirect="true"/>
+  <file name="contacto.html" crc="272114067" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="gracias.html" crc="295215035" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="actividades.html" crc="189636799" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="objetivos.html" crc="342767165" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="convenios.html" crc="4208853361" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="eventos.html" crc="461845169" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="publicaciones-y-notas.html" crc="98380767" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="servicios.html" crc="4140046321" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="bienvenidos.html" crc="231337567" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="promociones-cursos-1.html" crc="504832565" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="promociones-cursos-2.html" crc="4048927242" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="actividades-programadas.html" crc="267049647" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="com.-directiva.html" crc="199362484" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="actividades-en-curso.html" crc="3969730195" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="contacto-curso.html" crc="171717295" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="nota1.html" crc="294118782" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="nota2.html" crc="3838638917" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="asociate.html" crc="3914508450" seo="true" mt="1601191820872" redirect="true"/>
+  <file name="historia.html" crc="80091027" seo="true" mt="1601192504218" redirect="true"/>
+</manifest>
