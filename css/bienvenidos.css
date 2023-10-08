@@ -1278,6 +1278,7 @@
 	z-index: 251;
 	position: relative;
 	background-color: transparent;
+	border: 1px solid black;
 }
 
 #pu280 {
@@ -1751,12 +1752,16 @@ print {
 	#pu20048 {
 		margin-top: 19px;
 		width: 97.88%;
+
 	}
 
 	#u20048 {
-		width: 230px;
+		width: 237px;
 		margin-bottom: -1px;
-		margin-left: 21px;
+		margin-left: 20px;
+	}
+	#u20048_img{
+		padding-left: 0.2rem;
 	}
 
 	#u22121 {
@@ -1780,9 +1785,10 @@ print {
 	}
 
 	#u34619 {
-		width: 25%;
-		left: 25%;
-		margin-left: 2.29%;
+		width: 215px;
+    left: 26%;
+    margin-left: 2.40%;
+		border: 1px solid black;
 	}
 
 	#u20147_img,
@@ -2270,7 +2276,7 @@ print {
 	}
 
 	#u34619_img {
-		width: 100.87%;
+		width: 90.87%;
 	}
 
 	.css_verticalspacer .verticalspacer {
@@ -2372,3 +2378,5 @@ print {
 .mainContainer{
 	display: flex;
 }
+
+
