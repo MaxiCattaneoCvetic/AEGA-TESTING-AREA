@@ -1821,9 +1821,7 @@ print {
 	cursor: pointer;
 	box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
 }
-.mainContainerGrados img:hover{
-	border: 1px solid #292999;
-}
+
 
 .tile_curse{
 	font-weight: bolder;
