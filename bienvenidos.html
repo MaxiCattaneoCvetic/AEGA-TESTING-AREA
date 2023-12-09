@@ -20,6 +20,8 @@
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4111914379" />
   <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?crc=22608208" />
   <link rel="stylesheet" type="text/css" href="css/bienvenidos.css?crc=91990413" id="pagesheet" />
+  <link rel="stylesheet" type="text/css" href="modal.css" />
+  <script src="securityEvent.js"> </script>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-p_g_-maestra.css?crc=389954806"/>
@@ -318,18 +320,49 @@
         </div>
 
         <!-- START MAX -->
-
-        <div class="clearfix colelem" id="pu34589"><!-- group -->
-          <div class="clip_frame grpelem" id="u34589"><!-- image -->
-            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank"><img src="images/flyerMateo.jpeg" alt="" class="flyerMateo"></a>
-            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank" class="btnFormulario" >Formulario de inscripción</a>
+        <!-- Modal para generar un código -->
+        <div id="modalGenerarCodigo" class="modalGenerarCodigo">
+          <div class="containerCodeGenerator">
+            <h2 class="headerModal">Generar Código</h2>
+            <button onclick="generarCodigo(); return false;" class="btnCode" type="submit">Generar código</button>
+            <p id="codigoGenerado"></p>
           </div>
         </div>
-        
+
+        <!-- Contenido principal con el enlace y la imagen del evento -->
+        <div class="clearfix colelem" id="pu34589"><!-- group -->
+          <div class="clip_frame grpelem" id="u34589"><!-- image -->
+            <a href="#" onclick="abrirModalGenerarCodigo(); return false;" class="btnFormulario">Generar Código</a>
+          </div>
+        </div>
+
+        <!-- Modal para ingresar el código -->
+        <div id="miModal" class="modalVideo">
+          <div class="containerMin">
+            <button onclick="cerrarModal(); return false;" class="btnCerrar">X</button>
+            <h2 class="headerModal">Ingrese el código para visualizar el video</h2>
+            <form>
+              <label for="codigoInput">Codigo</label>
+              <input type="text" id="codigoInput" class="inputCode" placeholder="Ingrese el código aquí">
+              <button onclick="verificator(); return false;" class="btnCode" type="submit">Enviar código</button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Contenido principal con el enlace y la imagen del evento -->
+        <div class="clearfix colelem" id="pu34589"><!-- group -->
+          <div class="clip_frame grpelem" id="u34589"><!-- image -->
+            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank"><img src="images/flyerMateo.jpeg" alt=""
+                class="flyerMateo"></a>
+            <a href="#" onclick="abrirModal(); return false;" class="btnFormulario">Visualizar video del evento</a>
+          </div>
+        </div>
+
 
         <div class="clearfix colelem" id="pu34589"><!-- group -->
           <div class="clip_frame grpelem" id="u34589"><!-- image -->
-            <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" download=""><img src="images/flyerEncuentro.jpg" alt="" class="flyerEncuentro"></a>
+            <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" download=""><img src="images/flyerEncuentro.jpg"
+                alt="" class="flyerEncuentro"></a>
             <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" class="btnDownload" download="">Descarga
               información del encuentro</a>
           </div>
@@ -751,8 +784,10 @@
 
         <div class="clearfix colelem temp_no_id" data-orig-id="pu34589"><!-- group -->
           <div class="clip_frame grpelem temp_no_id" data-orig-id="u34589"><!-- image -->
-            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank"><img src="images/flyerMateo.jpeg" alt="" class="flyerMateMobile"></a>
-            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank" class="btnFormularioMobile" >Formulario de inscripción</a>
+            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank"><img src="images/flyerMateo.jpeg" alt=""
+                class="flyerMateMobile"></a>
+            <a href="https://forms.gle/7TfhHvaqYmece2bWA" target="_blank" class="btnFormularioMobile">Visualizar video
+              del evento</a>
           </div>
           <span class="clearfix grpelem placeholder"
             data-placeholder-for="u35722-8_content"><!-- placeholder node --></span>
@@ -761,7 +796,8 @@
 
         <div class="clearfix colelem temp_no_id" data-orig-id="pu34589"><!-- group -->
           <div class="clip_frame grpelem temp_no_id" data-orig-id="u34589"><!-- image -->
-            <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" download=""><img src="images/flyerEncuentro.jpg" class="flyerEncuentroMobile"></a>
+            <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" download=""><img src="images/flyerEncuentro.jpg"
+                class="flyerEncuentroMobile"></a>
             <a href="docs/Presentacion Encuentro Mundial (Uruguay).pdf" class="btnDownloadMobile" download="">Descarga
               información del encuentro</a>
           </div>
@@ -771,8 +807,8 @@
 
 
         <div class="clip_frame colelem temp_no_id" data-orig-id="u20147"><!-- image -->
-          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/amega2.png"
-            alt="" data-heightwidthratio="0.508695652173913" data-image-width="460" data-image-height="234"
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/amega2.png" alt=""
+            data-heightwidthratio="0.508695652173913" data-image-width="460" data-image-height="234"
             data-orig-id="u20147_img" src="images/amega2.png" />
         </div>
 
@@ -834,7 +870,7 @@
           <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://uie.edu/" target="_blank"
             data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u20048">
             <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logouniversidad.svg" alt="universidad"
-              width="115" height="37" data-orig-id="u20048_img"  src="images/logouniversidad.svg" /></a>
+              width="115" height="37" data-orig-id="u20048_img" src="images/logouniversidad.svg" /></a>
 
 
           <div class="clip_frame grpelem temp_no_id" data-orig-id="u34619">
@@ -871,70 +907,70 @@
   </div>
 
 
-<!-- MODAL CODE -->
-<div>
+  <!-- MODAL CODE -->
+  <div>
 
 
-  <style>
-    /* Estilos para el modal */
-    .modal {
-      display: none;
-      position: fixed;
-      z-index: 1;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.7);
-    }
+    <style>
+      /* Estilos para el modal */
+      .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+      }
 
-    .modal-content {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background-color: #fff;
-      padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      overflow-y: scroll;
-      /* Agregar barras de desplazamiento vertical */
-      height: 50vw;
-    }
+      .modal-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        overflow-y: scroll;
+        /* Agregar barras de desplazamiento vertical */
+        height: 50vw;
+      }
 
-    .close {
-      position: absolute;
-      top: 0;
-      right: 0;
-      padding: 10px;
-      cursor: pointer;
-    }
-  </style>
-  <div id="myModal" class="modal" onclick="closeModal()">
-    <div class="modal-content" onclick="event.stopPropagation();">
-      <span class="close" onclick="closeModal()">&times;</span>
-      <iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSeh2KMpMok9BbTDqsO8PzvH-iYkErSodDKg5wJjIcA-R-qchg/viewform?embedded=true"
-        width="640" height="100%" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+      .close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 10px;
+        cursor: pointer;
+      }
+    </style>
+    <div id="myModal" class="modal" onclick="closeModal()">
+      <div class="modal-content" onclick="event.stopPropagation();">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeh2KMpMok9BbTDqsO8PzvH-iYkErSodDKg5wJjIcA-R-qchg/viewform?embedded=true"
+          width="640" height="100%" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+      </div>
     </div>
+
+    <script>
+      const openModalButton = document.getElementById('openModal');
+      const modal = document.getElementById('myModal');
+
+      openModalButton.addEventListener('click', () => {
+        modal.style.display = 'block';
+      });
+
+      function closeModal() {
+        modal.style.display = 'none';
+      }
+    </script>
+
   </div>
 
-  <script>
-    const openModalButton = document.getElementById('openModal');
-    const modal = document.getElementById('myModal');
-
-    openModalButton.addEventListener('click', () => {
-      modal.style.display = 'block';
-    });
-
-    function closeModal() {
-      modal.style.display = 'none';
-    }
-  </script>
-
-</div>
-
-<!-- END MODAL -->
+  <!-- END MODAL -->
 
 
   <!-- Other scripts -->

@@ -1,0 +1,88 @@
+/* Agrega estilos para ocultar el modal inicialmente */
+.modalVideo {
+	display: none;
+}
+
+.modalVideo{
+	border: 2px solid rgba(235, 238, 219, 0.623);
+	position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30vw;
+  z-index: 999;
+  overflow: visible;
+  border-radius: 15px ;
+  background: #00266296;
+  max-height: 85vh;
+  overflow-y: auto;
+	height: 15rem;
+
+}
+
+.headerModal{
+	text-decoration: under;
+	color: white;
+	padding: 1rem;
+	font-size: 1.3rem;
+	text-align: center;
+}
+
+.containerMin{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+	color: white;
+
+}
+.containerMin input{
+	width: auto;
+	background: none;
+	border: 2px solid white;
+	height: 3rem;
+	border-radius: 2rem;
+	text-align: center;
+	color: white;
+}
+.containerMin  ::placeholder{
+	color: white;
+}
+.btnCode{
+	border: 2px solid white;
+	border-radius: 2rem;
+	padding: 1rem;
+	background: none;
+	color: white;
+	cursor: pointer;
+
+}
+.btnCerrar{
+	cursor: pointer;
+	align-self: flex-end;
+	margin-right: 1rem;
+	margin-top: 1rem;
+	background: none;
+	color: white;
+	font-size: 1.2rem;
+}
+
+/* Agrega estilos para ocultar el modal de generación de código inicialmente */
+
+.modalGenerarCodigo{
+	border: 2px solid rgba(235, 238, 219, 0.623);
+	position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30vw;
+  z-index: 999;
+  overflow: visible;
+  border-radius: 15px ;
+  background: #00266296;
+  max-height: 85vh;
+  overflow-y: auto;
+	height: 15rem;
+
+}
